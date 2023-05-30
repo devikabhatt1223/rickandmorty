@@ -55,7 +55,7 @@ class Result extends Component {
                 <div className="container-fluid">
                   <div className="row">
                     <header className="main-header">
-                      <h2 className="main-title">THE RICK AND MORTY</h2>
+                      <h2 className="main-title">RICK AND MORTY</h2>
                       <Dropdown id="sortDropdown" label="Sort by Id" items={['Ascending', 'Descending']} onItemClick={this.onItemClick} />
                     </header>
                     {
