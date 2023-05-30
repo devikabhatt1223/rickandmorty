@@ -8,7 +8,7 @@ Using the toggle button on the top right corner you can hide and show filters fr
 The UI is web and mobile responsive and can work seemlessly on multiple devices and screen sizes. 
 
 Attaching few screenshots of the application UI 
-![Screen 1](/src/images/application/screen1.jpg?raw=true "Screen 1")
+![Screen 1](/src/images/application/screen1.png?raw=true "Screen 1")
 
 
 ## Available Scripts
