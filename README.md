@@ -27,9 +27,9 @@ Attaching few screenshots of the application UI
 
 ## Technical Debts 
 
-Functional components to replace all class based components 
-More usgae of Hooks 
-Usage of Context API 
-Lack of documents and comments 
-Test cases 
-Better component organization 
+#Functional components to replace all class based components 
+#More usgae of Hooks 
+#Usage of Context API 
+#Lack of documents and comments 
+#Add Test cases 
+#Better component organization 
