@@ -8,7 +8,15 @@ Using the toggle button on the top right corner you can hide and show filters fr
 The UI is web and mobile responsive and can work seemlessly on multiple devices and screen sizes. 
 
 Attaching few screenshots of the application UI 
-![Screen 1](/src/images/application/screen1.png?raw=true "Screen 1")
+![Home Screen 1](src/assets/images/application/screen1.png?raw=true "Home Screen 1")
+![Search Results](src/assets/images/application/search-results.png?raw=true "Search Results")
+![Sort Results](src/assets/images/application/sort-results.png?raw=true "Sort Results")
+![Filter Results](src/assets/images/application/filter-results.png?raw=true "Filter Results")
+![Responsive screen 1 ](src/assets/images/application/responsive-1.png?raw=true "Responsive screen 1")
+![Responsive screen 2](src/assets/images/application/responsive-2.png?raw=true "Responsive screen 2")
+![Responsive screen 3](src/assets/images/application/responsive-3.png?raw=true "Responsive screen 3")
+
+
 
 
 ## Available Scripts
